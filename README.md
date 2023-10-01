@@ -1,2 +1,2 @@
-# Jaraxxus-Me.github.io
+# README
 To make a website for myself. And this repository is referenced to Bowen's website. Great thanks!
